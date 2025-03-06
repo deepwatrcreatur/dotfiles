@@ -11,9 +11,10 @@ pkgs.mkShell {
     neovim
     yt-dlp
     stow
-    gpg
+    gnupg
     gh
     fastfetch
+    rclone
     elixir
     mix2nix
   ];
