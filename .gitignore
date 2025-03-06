@@ -1,0 +1,9 @@
+# Ignore plaintext rclone.conf
+rclone/.config/rclone/rclone.conf
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore other common dotfiles artifacts
+*.swp  # Vim swap files
