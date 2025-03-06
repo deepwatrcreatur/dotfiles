@@ -6,10 +6,12 @@ pkgs.mkShell {
     bash
     git
     python3
+    kitty
     nano
     neovim
     yt-dlp
     stow
+    gpg
     gh
     fastfetch
     elixir
