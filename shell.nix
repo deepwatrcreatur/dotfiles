@@ -15,6 +15,7 @@ pkgs.mkShell {
     gnupg
     gh
     fastfetch
+    iperf3    
     rclone
     elixir
     mix2nix
